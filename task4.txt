@@ -1,0 +1,3 @@
+task4.1: https://colab.research.google.com/drive/123einEmwRTir6GAR_PFWG9gU5GaUk7Oq?usp=sharing
+
+predict weather: https://colab.research.google.com/drive/1Kwa2gxp2RVGCrc-V_6QfSEcOqsU0_wIB?usp=sharing
