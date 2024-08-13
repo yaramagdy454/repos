@@ -1,0 +1,9 @@
+ls:lists files and directories in the current directory.
+cd: changes the current directory.
+pwd: prints the current working directory.
+mkdir: creates a new directory.
+rm: removes files or directories.
+cp: copies files or directories.
+mv: moves or renames files or directories.
+cat: concatenates and displays the content of files.
+nano: opens the nano text editor to edit files.
