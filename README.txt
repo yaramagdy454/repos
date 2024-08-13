@@ -1,7 +1,7 @@
-task1 :
-task2 :
-task3 :
-task4 :
-task5 :
-task6 :
-task7 :
+task1 : 5 files (c++ tasks) (problem0,1,2,3,4)
+task2 : 3 files (2 files proteus (h driver & ac to dc ))
+task3 : tinkercad links (problem1,2,3,4,bonus)
+task4 : machine learning tasks (predict weather & processing data)
+task5 : matlab file (signals) & tinkercad link (task 5.2)
+task6 : Altium file (pcb design (h driver pcb))
+task7 : Markdown file (description of Linux commands)
